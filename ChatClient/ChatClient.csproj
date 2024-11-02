@@ -1,0 +1,23 @@
+﻿<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <OutputType>WinExe</OutputType>
+    <TargetFramework>net6.0-windows</TargetFramework>
+    <RootNamespace>Mikejzx.ChatClient</RootNamespace>
+    <Nullable>enable</Nullable>
+    <UseWindowsForms>true</UseWindowsForms>
+    <ImplicitUsings>enable</ImplicitUsings>
+    <Description>A simple chat application.
+
+https://github.com/mikejzx/ChatApp.git</Description>
+    <Copyright>Copyright (C) 2022 mikejzx</Copyright>
+    <PackageProjectUrl>https://github.com/mikejzx/ChatApp.git</PackageProjectUrl>
+    <RepositoryUrl>https://github.com/mikejzx/ChatApp.git</RepositoryUrl>
+    <RepositoryType>git</RepositoryType>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <ProjectReference Include="..\ChatShared\ChatShared.csproj" />
+  </ItemGroup>
+
+</Project>

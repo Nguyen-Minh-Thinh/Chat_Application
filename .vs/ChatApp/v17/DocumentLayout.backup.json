@@ -1,0 +1,439 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Thanh Thao\\source\\repos\\Network_programming\\Final\\ChatApp\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{3324D7D8-9AE3-4308-BE9B-86F9561F820B}|ChatClient\\ChatClient.csproj|c:\\users\\thanh thao\\source\\repos\\network_programming\\final\\chatapp\\chatclient\\chatclientloginform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{3324D7D8-9AE3-4308-BE9B-86F9561F820B}|ChatClient\\ChatClient.csproj|solutionrelative:chatclient\\chatclientloginform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3324D7D8-9AE3-4308-BE9B-86F9561F820B}|ChatClient\\ChatClient.csproj|c:\\users\\thanh thao\\source\\repos\\network_programming\\final\\chatapp\\chatclient\\chatclientform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{3324D7D8-9AE3-4308-BE9B-86F9561F820B}|ChatClient\\ChatClient.csproj|solutionrelative:chatclient\\chatclientform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3324D7D8-9AE3-4308-BE9B-86F9561F820B}|ChatClient\\ChatClient.csproj|c:\\users\\thanh thao\\source\\repos\\network_programming\\final\\chatapp\\chatclient\\chatchannel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3324D7D8-9AE3-4308-BE9B-86F9561F820B}|ChatClient\\ChatClient.csproj|solutionrelative:chatclient\\chatchannel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3324D7D8-9AE3-4308-BE9B-86F9561F820B}|ChatClient\\ChatClient.csproj|c:\\users\\thanh thao\\source\\repos\\network_programming\\final\\chatapp\\chatclient\\chatclientaboutbox.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{3324D7D8-9AE3-4308-BE9B-86F9561F820B}|ChatClient\\ChatClient.csproj|solutionrelative:chatclient\\chatclientaboutbox.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3324D7D8-9AE3-4308-BE9B-86F9561F820B}|ChatClient\\ChatClient.csproj|c:\\users\\thanh thao\\source\\repos\\network_programming\\final\\chatapp\\chatclient\\chatclientroompasswordform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{3324D7D8-9AE3-4308-BE9B-86F9561F820B}|ChatClient\\ChatClient.csproj|solutionrelative:chatclient\\chatclientroompasswordform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3324D7D8-9AE3-4308-BE9B-86F9561F820B}|ChatClient\\ChatClient.csproj|c:\\users\\thanh thao\\source\\repos\\network_programming\\final\\chatapp\\chatclient\\chatclientroomcreateform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{3324D7D8-9AE3-4308-BE9B-86F9561F820B}|ChatClient\\ChatClient.csproj|solutionrelative:chatclient\\chatclientroomcreateform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3324D7D8-9AE3-4308-BE9B-86F9561F820B}|ChatClient\\ChatClient.csproj|c:\\users\\thanh thao\\source\\repos\\network_programming\\final\\chatapp\\chatclient\\chatclientcrypto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3324D7D8-9AE3-4308-BE9B-86F9561F820B}|ChatClient\\ChatClient.csproj|solutionrelative:chatclient\\chatclientcrypto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3324D7D8-9AE3-4308-BE9B-86F9561F820B}|ChatClient\\ChatClient.csproj|c:\\users\\thanh thao\\source\\repos\\network_programming\\final\\chatapp\\chatclient\\chatclientroomcreateform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3324D7D8-9AE3-4308-BE9B-86F9561F820B}|ChatClient\\ChatClient.csproj|solutionrelative:chatclient\\chatclientroomcreateform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3324D7D8-9AE3-4308-BE9B-86F9561F820B}|ChatClient\\ChatClient.csproj|c:\\users\\thanh thao\\source\\repos\\network_programming\\final\\chatapp\\chatclient\\chatclientform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3324D7D8-9AE3-4308-BE9B-86F9561F820B}|ChatClient\\ChatClient.csproj|solutionrelative:chatclient\\chatclientform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3324D7D8-9AE3-4308-BE9B-86F9561F820B}|ChatClient\\ChatClient.csproj|c:\\users\\thanh thao\\source\\repos\\network_programming\\final\\chatapp\\chatclient\\chatclient.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3324D7D8-9AE3-4308-BE9B-86F9561F820B}|ChatClient\\ChatClient.csproj|solutionrelative:chatclient\\chatclient.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3324D7D8-9AE3-4308-BE9B-86F9561F820B}|ChatClient\\ChatClient.csproj|c:\\users\\thanh thao\\source\\repos\\network_programming\\final\\chatapp\\chatclient\\chatclientaboutbox.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3324D7D8-9AE3-4308-BE9B-86F9561F820B}|ChatClient\\ChatClient.csproj|solutionrelative:chatclient\\chatclientaboutbox.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3324D7D8-9AE3-4308-BE9B-86F9561F820B}|ChatClient\\ChatClient.csproj|c:\\users\\thanh thao\\source\\repos\\network_programming\\final\\chatapp\\chatclient\\chatclientmulticastlistener.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3324D7D8-9AE3-4308-BE9B-86F9561F820B}|ChatClient\\ChatClient.csproj|solutionrelative:chatclient\\chatclientmulticastlistener.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3324D7D8-9AE3-4308-BE9B-86F9561F820B}|ChatClient\\ChatClient.csproj|c:\\users\\thanh thao\\source\\repos\\network_programming\\final\\chatapp\\chatclient\\chatclientpackethandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3324D7D8-9AE3-4308-BE9B-86F9561F820B}|ChatClient\\ChatClient.csproj|solutionrelative:chatclient\\chatclientpackethandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3324D7D8-9AE3-4308-BE9B-86F9561F820B}|ChatClient\\ChatClient.csproj|c:\\users\\thanh thao\\source\\repos\\network_programming\\final\\chatapp\\chatclient\\chatrecipient.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3324D7D8-9AE3-4308-BE9B-86F9561F820B}|ChatClient\\ChatClient.csproj|solutionrelative:chatclient\\chatrecipient.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3324D7D8-9AE3-4308-BE9B-86F9561F820B}|ChatClient\\ChatClient.csproj|c:\\users\\thanh thao\\source\\repos\\network_programming\\final\\chatapp\\chatclient\\readonlyrichtextbox.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3324D7D8-9AE3-4308-BE9B-86F9561F820B}|ChatClient\\ChatClient.csproj|solutionrelative:chatclient\\readonlyrichtextbox.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3324D7D8-9AE3-4308-BE9B-86F9561F820B}|ChatClient\\ChatClient.csproj|c:\\users\\thanh thao\\source\\repos\\network_programming\\final\\chatapp\\chatclient\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3324D7D8-9AE3-4308-BE9B-86F9561F820B}|ChatClient\\ChatClient.csproj|solutionrelative:chatclient\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FC79EC15-3983-4C40-8383-2448312A1FCF}|ChatServer\\ChatServer.csproj|c:\\users\\thanh thao\\source\\repos\\network_programming\\final\\chatapp\\chatserver\\chatroom.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FC79EC15-3983-4C40-8383-2448312A1FCF}|ChatServer\\ChatServer.csproj|solutionrelative:chatserver\\chatroom.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FC79EC15-3983-4C40-8383-2448312A1FCF}|ChatServer\\ChatServer.csproj|c:\\users\\thanh thao\\source\\repos\\network_programming\\final\\chatapp\\chatserver\\chatserver.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FC79EC15-3983-4C40-8383-2448312A1FCF}|ChatServer\\ChatServer.csproj|solutionrelative:chatserver\\chatserver.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FC79EC15-3983-4C40-8383-2448312A1FCF}|ChatServer\\ChatServer.csproj|c:\\users\\thanh thao\\source\\repos\\network_programming\\final\\chatapp\\chatserver\\chatserverclient.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FC79EC15-3983-4C40-8383-2448312A1FCF}|ChatServer\\ChatServer.csproj|solutionrelative:chatserver\\chatserverclient.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FC79EC15-3983-4C40-8383-2448312A1FCF}|ChatServer\\ChatServer.csproj|c:\\users\\thanh thao\\source\\repos\\network_programming\\final\\chatapp\\chatserver\\chatserverpackethandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FC79EC15-3983-4C40-8383-2448312A1FCF}|ChatServer\\ChatServer.csproj|solutionrelative:chatserver\\chatserverpackethandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FC79EC15-3983-4C40-8383-2448312A1FCF}|ChatServer\\ChatServer.csproj|c:\\users\\thanh thao\\source\\repos\\network_programming\\final\\chatapp\\chatserver\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FC79EC15-3983-4C40-8383-2448312A1FCF}|ChatServer\\ChatServer.csproj|solutionrelative:chatserver\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AB5012DA-B0A8-4CD6-A5DB-226D7A7EE0E2}|ChatShared\\ChatShared.csproj|c:\\users\\thanh thao\\source\\repos\\network_programming\\final\\chatapp\\chatshared\\packet.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AB5012DA-B0A8-4CD6-A5DB-226D7A7EE0E2}|ChatShared\\ChatShared.csproj|solutionrelative:chatshared\\packet.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AB5012DA-B0A8-4CD6-A5DB-226D7A7EE0E2}|ChatShared\\ChatShared.csproj|c:\\users\\thanh thao\\source\\repos\\network_programming\\final\\chatapp\\chatshared\\chatmessage.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AB5012DA-B0A8-4CD6-A5DB-226D7A7EE0E2}|ChatShared\\ChatShared.csproj|solutionrelative:chatshared\\chatmessage.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AB5012DA-B0A8-4CD6-A5DB-226D7A7EE0E2}|ChatShared\\ChatShared.csproj|c:\\users\\thanh thao\\source\\repos\\network_programming\\final\\chatapp\\chatshared\\chatconstants.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AB5012DA-B0A8-4CD6-A5DB-226D7A7EE0E2}|ChatShared\\ChatShared.csproj|solutionrelative:chatshared\\chatconstants.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FC79EC15-3983-4C40-8383-2448312A1FCF}|ChatServer\\ChatServer.csproj|c:\\users\\thanh thao\\source\\repos\\network_programming\\final\\chatapp\\chatserver\\chatserver.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{FC79EC15-3983-4C40-8383-2448312A1FCF}|ChatServer\\ChatServer.csproj|solutionrelative:chatserver\\chatserver.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "ChatClientLoginForm.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\Thanh Thao\\source\\repos\\Network_programming\\Final\\ChatApp\\ChatClient\\ChatClientLoginForm.cs",
+              "RelativeDocumentMoniker": "ChatClient\\ChatClientLoginForm.cs",
+              "ToolTip": "C:\\Users\\Thanh Thao\\source\\repos\\Network_programming\\Final\\ChatApp\\ChatClient\\ChatClientLoginForm.cs [Design]",
+              "RelativeToolTip": "ChatClient\\ChatClientLoginForm.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-31T02:25:33.576Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "ChatChannel.cs",
+              "DocumentMoniker": "C:\\Users\\Thanh Thao\\source\\repos\\Network_programming\\Final\\ChatApp\\ChatClient\\ChatChannel.cs",
+              "RelativeDocumentMoniker": "ChatClient\\ChatChannel.cs",
+              "ToolTip": "C:\\Users\\Thanh Thao\\source\\repos\\Network_programming\\Final\\ChatApp\\ChatClient\\ChatChannel.cs",
+              "RelativeToolTip": "ChatClient\\ChatChannel.cs",
+              "ViewState": "AgIAAG8AAAAAAAAAAAAUwAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-31T01:50:14.133Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "ChatClientAboutBox.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\Thanh Thao\\source\\repos\\Network_programming\\Final\\ChatApp\\ChatClient\\ChatClientAboutBox.cs",
+              "RelativeDocumentMoniker": "ChatClient\\ChatClientAboutBox.cs",
+              "ToolTip": "C:\\Users\\Thanh Thao\\source\\repos\\Network_programming\\Final\\ChatApp\\ChatClient\\ChatClientAboutBox.cs [Design]",
+              "RelativeToolTip": "ChatClient\\ChatClientAboutBox.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-31T01:49:38.006Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "ChatClientForm.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\Thanh Thao\\source\\repos\\Network_programming\\Final\\ChatApp\\ChatClient\\ChatClientForm.cs",
+              "RelativeDocumentMoniker": "ChatClient\\ChatClientForm.cs",
+              "ToolTip": "C:\\Users\\Thanh Thao\\source\\repos\\Network_programming\\Final\\ChatApp\\ChatClient\\ChatClientForm.cs [Design]",
+              "RelativeToolTip": "ChatClient\\ChatClientForm.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-31T01:49:35.974Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "ChatClientRoomPasswordForm.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\Thanh Thao\\source\\repos\\Network_programming\\Final\\ChatApp\\ChatClient\\ChatClientRoomPasswordForm.cs",
+              "RelativeDocumentMoniker": "ChatClient\\ChatClientRoomPasswordForm.cs",
+              "ToolTip": "C:\\Users\\Thanh Thao\\source\\repos\\Network_programming\\Final\\ChatApp\\ChatClient\\ChatClientRoomPasswordForm.cs [Design]",
+              "RelativeToolTip": "ChatClient\\ChatClientRoomPasswordForm.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-31T02:06:05.241Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "ChatClientRoomCreateForm.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\Thanh Thao\\source\\repos\\Network_programming\\Final\\ChatApp\\ChatClient\\ChatClientRoomCreateForm.cs",
+              "RelativeDocumentMoniker": "ChatClient\\ChatClientRoomCreateForm.cs",
+              "ToolTip": "C:\\Users\\Thanh Thao\\source\\repos\\Network_programming\\Final\\ChatApp\\ChatClient\\ChatClientRoomCreateForm.cs [Design]",
+              "RelativeToolTip": "ChatClient\\ChatClientRoomCreateForm.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-28T15:40:23.506Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "ChatClientCrypto.cs",
+              "DocumentMoniker": "C:\\Users\\Thanh Thao\\source\\repos\\Network_programming\\Final\\ChatApp\\ChatClient\\ChatClientCrypto.cs",
+              "RelativeDocumentMoniker": "ChatClient\\ChatClientCrypto.cs",
+              "ToolTip": "C:\\Users\\Thanh Thao\\source\\repos\\Network_programming\\Final\\ChatApp\\ChatClient\\ChatClientCrypto.cs",
+              "RelativeToolTip": "ChatClient\\ChatClientCrypto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-31T02:21:29.63Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "ChatClientRoomCreateForm.cs",
+              "DocumentMoniker": "C:\\Users\\Thanh Thao\\source\\repos\\Network_programming\\Final\\ChatApp\\ChatClient\\ChatClientRoomCreateForm.cs",
+              "RelativeDocumentMoniker": "ChatClient\\ChatClientRoomCreateForm.cs",
+              "ToolTip": "C:\\Users\\Thanh Thao\\source\\repos\\Network_programming\\Final\\ChatApp\\ChatClient\\ChatClientRoomCreateForm.cs",
+              "RelativeToolTip": "ChatClient\\ChatClientRoomCreateForm.cs",
+              "ViewState": "AgIAAEAAAAAAAAAAAAAWwEYAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-31T02:19:14.217Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "ChatClientForm.cs",
+              "DocumentMoniker": "C:\\Users\\Thanh Thao\\source\\repos\\Network_programming\\Final\\ChatApp\\ChatClient\\ChatClientForm.cs",
+              "RelativeDocumentMoniker": "ChatClient\\ChatClientForm.cs",
+              "ToolTip": "C:\\Users\\Thanh Thao\\source\\repos\\Network_programming\\Final\\ChatApp\\ChatClient\\ChatClientForm.cs",
+              "RelativeToolTip": "ChatClient\\ChatClientForm.cs",
+              "ViewState": "AgIAABMCAAAAAAAAAAAqwBsCAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-31T02:04:26.572Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "ChatClient.cs",
+              "DocumentMoniker": "C:\\Users\\Thanh Thao\\source\\repos\\Network_programming\\Final\\ChatApp\\ChatClient\\ChatClient.cs",
+              "RelativeDocumentMoniker": "ChatClient\\ChatClient.cs",
+              "ToolTip": "C:\\Users\\Thanh Thao\\source\\repos\\Network_programming\\Final\\ChatApp\\ChatClient\\ChatClient.cs",
+              "RelativeToolTip": "ChatClient\\ChatClient.cs",
+              "ViewState": "AgIAAGsDAAAAAAAAAAAmwAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-31T01:49:50.665Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "ChatClientAboutBox.cs",
+              "DocumentMoniker": "C:\\Users\\Thanh Thao\\source\\repos\\Network_programming\\Final\\ChatApp\\ChatClient\\ChatClientAboutBox.cs",
+              "RelativeDocumentMoniker": "ChatClient\\ChatClientAboutBox.cs",
+              "ToolTip": "C:\\Users\\Thanh Thao\\source\\repos\\Network_programming\\Final\\ChatApp\\ChatClient\\ChatClientAboutBox.cs",
+              "RelativeToolTip": "ChatClient\\ChatClientAboutBox.cs",
+              "ViewState": "AgIAAA0AAAAAAAAAAAAUwBgAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-31T01:49:43.152Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "ChatClientMulticastListener.cs",
+              "DocumentMoniker": "C:\\Users\\Thanh Thao\\source\\repos\\Network_programming\\Final\\ChatApp\\ChatClient\\ChatClientMulticastListener.cs",
+              "RelativeDocumentMoniker": "ChatClient\\ChatClientMulticastListener.cs",
+              "ToolTip": "C:\\Users\\Thanh Thao\\source\\repos\\Network_programming\\Final\\ChatApp\\ChatClient\\ChatClientMulticastListener.cs",
+              "RelativeToolTip": "ChatClient\\ChatClientMulticastListener.cs",
+              "ViewState": "AgIAAJoAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-31T01:49:28.342Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "ChatClientPacketHandler.cs",
+              "DocumentMoniker": "C:\\Users\\Thanh Thao\\source\\repos\\Network_programming\\Final\\ChatApp\\ChatClient\\ChatClientPacketHandler.cs",
+              "RelativeDocumentMoniker": "ChatClient\\ChatClientPacketHandler.cs",
+              "ToolTip": "C:\\Users\\Thanh Thao\\source\\repos\\Network_programming\\Final\\ChatApp\\ChatClient\\ChatClientPacketHandler.cs",
+              "RelativeToolTip": "ChatClient\\ChatClientPacketHandler.cs",
+              "ViewState": "AgIAAIECAAAAAAAAAAAUwAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-31T01:49:10.752Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "ReadOnlyRichTextBox.cs",
+              "DocumentMoniker": "C:\\Users\\Thanh Thao\\source\\repos\\Network_programming\\Final\\ChatApp\\ChatClient\\ReadOnlyRichTextBox.cs",
+              "RelativeDocumentMoniker": "ChatClient\\ReadOnlyRichTextBox.cs",
+              "ToolTip": "C:\\Users\\Thanh Thao\\source\\repos\\Network_programming\\Final\\ChatApp\\ChatClient\\ReadOnlyRichTextBox.cs",
+              "RelativeToolTip": "ChatClient\\ReadOnlyRichTextBox.cs",
+              "ViewState": "AgIAAG0AAAAAAAAAAAAcwAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-31T01:49:03.15Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "ChatRecipient.cs",
+              "DocumentMoniker": "C:\\Users\\Thanh Thao\\source\\repos\\Network_programming\\Final\\ChatApp\\ChatClient\\ChatRecipient.cs",
+              "RelativeDocumentMoniker": "ChatClient\\ChatRecipient.cs",
+              "ToolTip": "C:\\Users\\Thanh Thao\\source\\repos\\Network_programming\\Final\\ChatApp\\ChatClient\\ChatRecipient.cs",
+              "RelativeToolTip": "ChatClient\\ChatRecipient.cs",
+              "ViewState": "AgIAABYAAAAAAAAAAAAQwAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-31T01:49:01.589Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Thanh Thao\\source\\repos\\Network_programming\\Final\\ChatApp\\ChatClient\\Program.cs",
+              "RelativeDocumentMoniker": "ChatClient\\Program.cs",
+              "ToolTip": "C:\\Users\\Thanh Thao\\source\\repos\\Network_programming\\Final\\ChatApp\\ChatClient\\Program.cs",
+              "RelativeToolTip": "ChatClient\\Program.cs",
+              "ViewState": "AgIAAD8AAAAAAAAAAAAYwAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-31T01:48:54.484Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "ChatServerClient.cs",
+              "DocumentMoniker": "C:\\Users\\Thanh Thao\\source\\repos\\Network_programming\\Final\\ChatApp\\ChatServer\\ChatServerClient.cs",
+              "RelativeDocumentMoniker": "ChatServer\\ChatServerClient.cs",
+              "ToolTip": "C:\\Users\\Thanh Thao\\source\\repos\\Network_programming\\Final\\ChatApp\\ChatServer\\ChatServerClient.cs",
+              "RelativeToolTip": "ChatServer\\ChatServerClient.cs",
+              "ViewState": "AgIAALIAAAAAAAAAAAAcwAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-31T01:48:04.938Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "ChatServer.cs",
+              "DocumentMoniker": "C:\\Users\\Thanh Thao\\source\\repos\\Network_programming\\Final\\ChatApp\\ChatServer\\ChatServer.cs",
+              "RelativeDocumentMoniker": "ChatServer\\ChatServer.cs",
+              "ToolTip": "C:\\Users\\Thanh Thao\\source\\repos\\Network_programming\\Final\\ChatApp\\ChatServer\\ChatServer.cs",
+              "RelativeToolTip": "ChatServer\\ChatServer.cs",
+              "ViewState": "AgIAAPcBAAAAAAAAAAAAwEEAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-24T09:53:06.71Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "ChatRoom.cs",
+              "DocumentMoniker": "C:\\Users\\Thanh Thao\\source\\repos\\Network_programming\\Final\\ChatApp\\ChatServer\\ChatRoom.cs",
+              "RelativeDocumentMoniker": "ChatServer\\ChatRoom.cs",
+              "ToolTip": "C:\\Users\\Thanh Thao\\source\\repos\\Network_programming\\Final\\ChatApp\\ChatServer\\ChatRoom.cs",
+              "RelativeToolTip": "ChatServer\\ChatRoom.cs",
+              "ViewState": "AgIAAMgAAAAAAAAAAAAAAGsAAAAmAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-24T09:16:59.937Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "ChatServerPacketHandler.cs",
+              "DocumentMoniker": "C:\\Users\\Thanh Thao\\source\\repos\\Network_programming\\Final\\ChatApp\\ChatServer\\ChatServerPacketHandler.cs",
+              "RelativeDocumentMoniker": "ChatServer\\ChatServerPacketHandler.cs",
+              "ToolTip": "C:\\Users\\Thanh Thao\\source\\repos\\Network_programming\\Final\\ChatApp\\ChatServer\\ChatServerPacketHandler.cs",
+              "RelativeToolTip": "ChatServer\\ChatServerPacketHandler.cs",
+              "ViewState": "AgIAAHkBAAAAAAAAAAAmwAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-31T01:47:00.544Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "ChatConstants.cs",
+              "DocumentMoniker": "C:\\Users\\Thanh Thao\\source\\repos\\Network_programming\\Final\\ChatApp\\ChatShared\\ChatConstants.cs",
+              "RelativeDocumentMoniker": "ChatShared\\ChatConstants.cs",
+              "ToolTip": "C:\\Users\\Thanh Thao\\source\\repos\\Network_programming\\Final\\ChatApp\\ChatShared\\ChatConstants.cs",
+              "RelativeToolTip": "ChatShared\\ChatConstants.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-31T01:45:59.852Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "ChatMessage.cs",
+              "DocumentMoniker": "C:\\Users\\Thanh Thao\\source\\repos\\Network_programming\\Final\\ChatApp\\ChatShared\\ChatMessage.cs",
+              "RelativeDocumentMoniker": "ChatShared\\ChatMessage.cs",
+              "ToolTip": "C:\\Users\\Thanh Thao\\source\\repos\\Network_programming\\Final\\ChatApp\\ChatShared\\ChatMessage.cs",
+              "RelativeToolTip": "ChatShared\\ChatMessage.cs",
+              "ViewState": "AgIAAAUAAAAAAAAAAAAAwAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-31T01:45:58.97Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "Packet.cs",
+              "DocumentMoniker": "C:\\Users\\Thanh Thao\\source\\repos\\Network_programming\\Final\\ChatApp\\ChatShared\\Packet.cs",
+              "RelativeDocumentMoniker": "ChatShared\\Packet.cs",
+              "ToolTip": "C:\\Users\\Thanh Thao\\source\\repos\\Network_programming\\Final\\ChatApp\\ChatShared\\Packet.cs",
+              "RelativeToolTip": "ChatShared\\Packet.cs",
+              "ViewState": "AgIAAKsBAAAAAAAAAAAcwAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-31T01:45:57.839Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Thanh Thao\\source\\repos\\Network_programming\\Final\\ChatApp\\ChatServer\\Program.cs",
+              "RelativeDocumentMoniker": "ChatServer\\Program.cs",
+              "ToolTip": "C:\\Users\\Thanh Thao\\source\\repos\\Network_programming\\Final\\ChatApp\\ChatServer\\Program.cs",
+              "RelativeToolTip": "ChatServer\\Program.cs",
+              "ViewState": "AgIAABIAAAAAAAAAAAAAAB0AAAAXAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-24T09:53:58.515Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 24,
+              "Title": "ChatServer.csproj",
+              "DocumentMoniker": "C:\\Users\\Thanh Thao\\source\\repos\\Network_programming\\Final\\ChatApp\\ChatServer\\ChatServer.csproj",
+              "RelativeDocumentMoniker": "ChatServer\\ChatServer.csproj",
+              "ToolTip": "C:\\Users\\Thanh Thao\\source\\repos\\Network_programming\\Final\\ChatApp\\ChatServer\\ChatServer.csproj",
+              "RelativeToolTip": "ChatServer\\ChatServer.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-10-24T09:53:52.617Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

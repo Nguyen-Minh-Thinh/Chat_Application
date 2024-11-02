@@ -1,0 +1,12 @@
+C:\Users\Thanh Thao\source\repos\Network_programming\Final\ChatApp\ChatShared\bin\Debug\net6.0\ChatShared.deps.json
+C:\Users\Thanh Thao\source\repos\Network_programming\Final\ChatApp\ChatShared\bin\Debug\net6.0\ChatShared.dll
+C:\Users\Thanh Thao\source\repos\Network_programming\Final\ChatApp\ChatShared\bin\Debug\net6.0\ChatShared.pdb
+C:\Users\Thanh Thao\source\repos\Network_programming\Final\ChatApp\ChatShared\obj\Debug\net6.0\ChatShared.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Thanh Thao\source\repos\Network_programming\Final\ChatApp\ChatShared\obj\Debug\net6.0\ChatShared.AssemblyInfoInputs.cache
+C:\Users\Thanh Thao\source\repos\Network_programming\Final\ChatApp\ChatShared\obj\Debug\net6.0\ChatShared.AssemblyInfo.cs
+C:\Users\Thanh Thao\source\repos\Network_programming\Final\ChatApp\ChatShared\obj\Debug\net6.0\ChatShared.csproj.CoreCompileInputs.cache
+C:\Users\Thanh Thao\source\repos\Network_programming\Final\ChatApp\ChatShared\obj\Debug\net6.0\ChatShared.sourcelink.json
+C:\Users\Thanh Thao\source\repos\Network_programming\Final\ChatApp\ChatShared\obj\Debug\net6.0\ChatShared.dll
+C:\Users\Thanh Thao\source\repos\Network_programming\Final\ChatApp\ChatShared\obj\Debug\net6.0\refint\ChatShared.dll
+C:\Users\Thanh Thao\source\repos\Network_programming\Final\ChatApp\ChatShared\obj\Debug\net6.0\ChatShared.pdb
+C:\Users\Thanh Thao\source\repos\Network_programming\Final\ChatApp\ChatShared\obj\Debug\net6.0\ref\ChatShared.dll
