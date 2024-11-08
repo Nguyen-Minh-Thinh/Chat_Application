@@ -1,0 +1,63 @@
+C:\Users\Thanh Thao\source\repos\Network_programming\Final\ChatApp\ChatServer\bin\Debug\net6.0-windows\ChatServer.exe
+C:\Users\Thanh Thao\source\repos\Network_programming\Final\ChatApp\ChatServer\bin\Debug\net6.0-windows\ChatServer.deps.json
+C:\Users\Thanh Thao\source\repos\Network_programming\Final\ChatApp\ChatServer\bin\Debug\net6.0-windows\ChatServer.runtimeconfig.json
+C:\Users\Thanh Thao\source\repos\Network_programming\Final\ChatApp\ChatServer\bin\Debug\net6.0-windows\ChatServer.dll
+C:\Users\Thanh Thao\source\repos\Network_programming\Final\ChatApp\ChatServer\bin\Debug\net6.0-windows\ChatServer.pdb
+C:\Users\Thanh Thao\source\repos\Network_programming\Final\ChatApp\ChatServer\bin\Debug\net6.0-windows\ChatShared.dll
+C:\Users\Thanh Thao\source\repos\Network_programming\Final\ChatApp\ChatServer\bin\Debug\net6.0-windows\ChatShared.pdb
+C:\Users\Thanh Thao\source\repos\Network_programming\Final\ChatApp\ChatServer\obj\Debug\net6.0-windows\ChatServer.csproj.AssemblyReference.cache
+C:\Users\Thanh Thao\source\repos\Network_programming\Final\ChatApp\ChatServer\obj\Debug\net6.0-windows\ChatServer.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Thanh Thao\source\repos\Network_programming\Final\ChatApp\ChatServer\obj\Debug\net6.0-windows\ChatServer.AssemblyInfoInputs.cache
+C:\Users\Thanh Thao\source\repos\Network_programming\Final\ChatApp\ChatServer\obj\Debug\net6.0-windows\ChatServer.AssemblyInfo.cs
+C:\Users\Thanh Thao\source\repos\Network_programming\Final\ChatApp\ChatServer\obj\Debug\net6.0-windows\ChatServer.csproj.CoreCompileInputs.cache
+C:\Users\Thanh Thao\source\repos\Network_programming\Final\ChatApp\ChatServer\obj\Debug\net6.0-windows\ChatServer.sourcelink.json
+C:\Users\Thanh Thao\source\repos\Network_programming\Final\ChatApp\ChatServer\obj\Debug\net6.0-windows\ChatServer.csproj.Up2Date
+C:\Users\Thanh Thao\source\repos\Network_programming\Final\ChatApp\ChatServer\obj\Debug\net6.0-windows\ChatServer.dll
+C:\Users\Thanh Thao\source\repos\Network_programming\Final\ChatApp\ChatServer\obj\Debug\net6.0-windows\refint\ChatServer.dll
+C:\Users\Thanh Thao\source\repos\Network_programming\Final\ChatApp\ChatServer\obj\Debug\net6.0-windows\ChatServer.pdb
+C:\Users\Thanh Thao\source\repos\Network_programming\Final\ChatApp\ChatServer\obj\Debug\net6.0-windows\ChatServer.genruntimeconfig.cache
+C:\Users\Thanh Thao\source\repos\Network_programming\Final\ChatApp\ChatServer\obj\Debug\net6.0-windows\ref\ChatServer.dll
+C:\Users\Thanh Thao\source\repos\Network_programming\Final\ChatApp\ChatServer\obj\Debug\net6.0-windows\Mikejzx.ChatServer.ServerForm.resources
+C:\Users\Thanh Thao\source\repos\Network_programming\Final\ChatApp\ChatServer\obj\Debug\net6.0-windows\ChatServer.csproj.GenerateResource.cache
+C:\Users\Thanh Thao\source\repos\Network_programming\Final\Test\ChatApp\ChatServer\bin\Debug\net6.0-windows\ChatServer.exe
+C:\Users\Thanh Thao\source\repos\Network_programming\Final\Test\ChatApp\ChatServer\bin\Debug\net6.0-windows\ChatServer.deps.json
+C:\Users\Thanh Thao\source\repos\Network_programming\Final\Test\ChatApp\ChatServer\bin\Debug\net6.0-windows\ChatServer.runtimeconfig.json
+C:\Users\Thanh Thao\source\repos\Network_programming\Final\Test\ChatApp\ChatServer\bin\Debug\net6.0-windows\ChatServer.dll
+C:\Users\Thanh Thao\source\repos\Network_programming\Final\Test\ChatApp\ChatServer\bin\Debug\net6.0-windows\ChatServer.pdb
+C:\Users\Thanh Thao\source\repos\Network_programming\Final\Test\ChatApp\ChatServer\bin\Debug\net6.0-windows\ChatShared.dll
+C:\Users\Thanh Thao\source\repos\Network_programming\Final\Test\ChatApp\ChatServer\bin\Debug\net6.0-windows\ChatShared.pdb
+C:\Users\Thanh Thao\source\repos\Network_programming\Final\Test\ChatApp\ChatServer\obj\Debug\net6.0-windows\ChatServer.csproj.AssemblyReference.cache
+C:\Users\Thanh Thao\source\repos\Network_programming\Final\Test\ChatApp\ChatServer\obj\Debug\net6.0-windows\Mikejzx.ChatServer.ServerForm.resources
+C:\Users\Thanh Thao\source\repos\Network_programming\Final\Test\ChatApp\ChatServer\obj\Debug\net6.0-windows\ChatServer.csproj.GenerateResource.cache
+C:\Users\Thanh Thao\source\repos\Network_programming\Final\Test\ChatApp\ChatServer\obj\Debug\net6.0-windows\ChatServer.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Thanh Thao\source\repos\Network_programming\Final\Test\ChatApp\ChatServer\obj\Debug\net6.0-windows\ChatServer.AssemblyInfoInputs.cache
+C:\Users\Thanh Thao\source\repos\Network_programming\Final\Test\ChatApp\ChatServer\obj\Debug\net6.0-windows\ChatServer.AssemblyInfo.cs
+C:\Users\Thanh Thao\source\repos\Network_programming\Final\Test\ChatApp\ChatServer\obj\Debug\net6.0-windows\ChatServer.csproj.CoreCompileInputs.cache
+C:\Users\Thanh Thao\source\repos\Network_programming\Final\Test\ChatApp\ChatServer\obj\Debug\net6.0-windows\ChatServer.sourcelink.json
+C:\Users\Thanh Thao\source\repos\Network_programming\Final\Test\ChatApp\ChatServer\obj\Debug\net6.0-windows\ChatServer.csproj.Up2Date
+C:\Users\Thanh Thao\source\repos\Network_programming\Final\Test\ChatApp\ChatServer\obj\Debug\net6.0-windows\ChatServer.dll
+C:\Users\Thanh Thao\source\repos\Network_programming\Final\Test\ChatApp\ChatServer\obj\Debug\net6.0-windows\refint\ChatServer.dll
+C:\Users\Thanh Thao\source\repos\Network_programming\Final\Test\ChatApp\ChatServer\obj\Debug\net6.0-windows\ChatServer.pdb
+C:\Users\Thanh Thao\source\repos\Network_programming\Final\Test\ChatApp\ChatServer\obj\Debug\net6.0-windows\ChatServer.genruntimeconfig.cache
+C:\Users\Thanh Thao\source\repos\Network_programming\Final\Test\ChatApp\ChatServer\obj\Debug\net6.0-windows\ref\ChatServer.dll
+C:\Users\hoang\Documents\Zalo Received Files\ChatApp7\ChatApp\ChatServer\bin\Debug\net6.0-windows\ChatServer.exe
+C:\Users\hoang\Documents\Zalo Received Files\ChatApp7\ChatApp\ChatServer\bin\Debug\net6.0-windows\ChatServer.deps.json
+C:\Users\hoang\Documents\Zalo Received Files\ChatApp7\ChatApp\ChatServer\bin\Debug\net6.0-windows\ChatServer.runtimeconfig.json
+C:\Users\hoang\Documents\Zalo Received Files\ChatApp7\ChatApp\ChatServer\bin\Debug\net6.0-windows\ChatServer.dll
+C:\Users\hoang\Documents\Zalo Received Files\ChatApp7\ChatApp\ChatServer\bin\Debug\net6.0-windows\ChatServer.pdb
+C:\Users\hoang\Documents\Zalo Received Files\ChatApp7\ChatApp\ChatServer\bin\Debug\net6.0-windows\ChatShared.dll
+C:\Users\hoang\Documents\Zalo Received Files\ChatApp7\ChatApp\ChatServer\bin\Debug\net6.0-windows\ChatShared.pdb
+C:\Users\hoang\Documents\Zalo Received Files\ChatApp7\ChatApp\ChatServer\obj\Debug\net6.0-windows\ChatServer.csproj.AssemblyReference.cache
+C:\Users\hoang\Documents\Zalo Received Files\ChatApp7\ChatApp\ChatServer\obj\Debug\net6.0-windows\Mikejzx.ChatServer.ServerForm.resources
+C:\Users\hoang\Documents\Zalo Received Files\ChatApp7\ChatApp\ChatServer\obj\Debug\net6.0-windows\ChatServer.csproj.GenerateResource.cache
+C:\Users\hoang\Documents\Zalo Received Files\ChatApp7\ChatApp\ChatServer\obj\Debug\net6.0-windows\ChatServer.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\hoang\Documents\Zalo Received Files\ChatApp7\ChatApp\ChatServer\obj\Debug\net6.0-windows\ChatServer.AssemblyInfoInputs.cache
+C:\Users\hoang\Documents\Zalo Received Files\ChatApp7\ChatApp\ChatServer\obj\Debug\net6.0-windows\ChatServer.AssemblyInfo.cs
+C:\Users\hoang\Documents\Zalo Received Files\ChatApp7\ChatApp\ChatServer\obj\Debug\net6.0-windows\ChatServer.csproj.CoreCompileInputs.cache
+C:\Users\hoang\Documents\Zalo Received Files\ChatApp7\ChatApp\ChatServer\obj\Debug\net6.0-windows\ChatServer.sourcelink.json
+C:\Users\hoang\Documents\Zalo Received Files\ChatApp7\ChatApp\ChatServer\obj\Debug\net6.0-windows\ChatServer.csproj.Up2Date
+C:\Users\hoang\Documents\Zalo Received Files\ChatApp7\ChatApp\ChatServer\obj\Debug\net6.0-windows\ChatServer.dll
+C:\Users\hoang\Documents\Zalo Received Files\ChatApp7\ChatApp\ChatServer\obj\Debug\net6.0-windows\refint\ChatServer.dll
+C:\Users\hoang\Documents\Zalo Received Files\ChatApp7\ChatApp\ChatServer\obj\Debug\net6.0-windows\ChatServer.pdb
+C:\Users\hoang\Documents\Zalo Received Files\ChatApp7\ChatApp\ChatServer\obj\Debug\net6.0-windows\ChatServer.genruntimeconfig.cache
+C:\Users\hoang\Documents\Zalo Received Files\ChatApp7\ChatApp\ChatServer\obj\Debug\net6.0-windows\ref\ChatServer.dll
